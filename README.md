@@ -8,6 +8,6 @@
     looking to collaborate on fullstack projects.
 - 💬 Ask me about ...
 Frontend development JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.
-- ⚡ Fun fact: ...
+  
 I love creating Coding videos related to frontend development on my youtube channel
 -->
